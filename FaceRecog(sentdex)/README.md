@@ -1,4 +1,4 @@
-Face Recognition using Pre-Built face_recognition module for python
+# Face Recognition using Pre-Built face_recognition module for python
 
 1.Put known faces in known_faces/{Face Name - KNOWN}/
   [Rename {} to Face Name for Correct Label Name]
@@ -8,4 +8,4 @@ Face Recognition using Pre-Built face_recognition module for python
 3.Run <python fRecognition.py> in Terminal.
 
 
--Notes Tested on Manjaro/Arch Linux with CUDA (dlib)
+- Note: Tested on Manjaro/Arch Linux with CUDA (dlib)
